@@ -1,2 +1,2 @@
 # Sivakumar
-#i'm VLSI from KIT
+i'm VLSI student from KIT
